@@ -1,6 +1,7 @@
 # insurance_protocol
 
 This project implements a decentralized insurance protocol on the Solana blockchain using Anchor. It allows users to purchase insurance policies, pay premiums with tokens, stake into the insurance pool, cancel policies, and submit claims. Administrators can approve claims, withdraw premiums, and manage the protocol through governance votes.
+This Project was created using Solana Playground IDE(https://beta.solpg.io/)
 
 ## Key Features
 
@@ -14,4 +15,8 @@ This project implements a decentralized insurance protocol on the Solana blockch
 
 - **Governance Voting: Allows voting on protocol upgrades and changes.**
 
+  ## Smart Contract Architecture
+- **lib.rs: Contains the core logic for insurance policy management, premium collection, claims processing, and staking into the pool.**
+- **anchor.tests.ts: TypeScript-based test suite for running tests on Solana Playground, validating the functionality of the insurance protocol.**
+- - **client.ts: TypeScript code that interfaces with the program on Solana Playground or Phantom Wallet. **
 
