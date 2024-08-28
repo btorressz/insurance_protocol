@@ -25,6 +25,9 @@ This Project was created using Solana Playground IDE(https://beta.solpg.io/)
 - **Solana: High-speed blockchain for decentralized finance (DeFi) applications.**
 - **Anchor: A Rust framework for building secure Solana programs.**
 - **TypeScript: Client-side interaction with Solana blockchain and testing.**
+- **Solana Playground: For rapid prototyping and on-chain program testing.**
+- **Replit: Collaborative cloud-based IDE for development.**
+- **Visual Studio Code (VSCode): Primary IDE for local development and debugging.**
 
   
 
