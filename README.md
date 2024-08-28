@@ -21,3 +21,10 @@ This Project was created using Solana Playground IDE(https://beta.solpg.io/)
 - **client.ts: TypeScript code that interfaces with the program on Solana Playground or Phantom Wallet.**
 - **tests.rs: Rust-based test suite designed to rigorously validate program logic and ensure the accuracy of each core function. (Currently under review; anchor.tests.ts is being used for testing at this stage).**
 
+ ## Technology Stack
+- **Solana: High-speed blockchain for decentralized finance (DeFi) applications.**
+- **Anchor: A Rust framework for building secure Solana programs.**
+- **TypeScript: Client-side interaction with Solana blockchain and testing.**
+
+  
+
