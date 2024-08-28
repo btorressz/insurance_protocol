@@ -18,5 +18,5 @@ This Project was created using Solana Playground IDE(https://beta.solpg.io/)
   ## Smart Contract Architecture
 - **lib.rs: Contains the core logic for insurance policy management, premium collection, claims processing, and staking into the pool.**
 - **anchor.tests.ts: TypeScript-based test suite for running tests on Solana Playground, validating the functionality of the insurance protocol.**
-- - **client.ts: TypeScript code that interfaces with the program on Solana Playground or Phantom Wallet. **
+- **client.ts: TypeScript code that interfaces with the program on Solana Playground or Phantom Wallet.**
 
