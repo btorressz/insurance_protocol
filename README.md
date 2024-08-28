@@ -28,6 +28,12 @@ This Project was created using Solana Playground IDE(https://beta.solpg.io/)
 - **Solana Playground: For rapid prototyping and on-chain program testing.**
 - **Replit: Collaborative cloud-based IDE for development.**
 - **Visual Studio Code (VSCode): Primary IDE for local development and debugging.**
+- **Phantom Wallet**
+
+  ## License
+  This project is licensed under the MIT License.
+
+
 
   
 
